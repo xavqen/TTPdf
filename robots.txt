@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xavqen.github.io/TTPdf/sitemap.xml
